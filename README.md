@@ -1,3 +1,3 @@
-KIDDOL
+KIDDOL.CN
 
 wx: xindot
